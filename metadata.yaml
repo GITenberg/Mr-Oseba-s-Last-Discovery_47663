@@ -1,10 +1,16 @@
 _repo: Mr-Oseba-s-Last-Discovery_47663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47663-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, George W.
     gutenberg_agent_id: '44418'
     url: http://www.gutenberg.org/2009/agents/44418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47663#Mr-Oseba-s-Last-Discovery
 gutenberg_issued: '2014-12-14'
 gutenberg_type: Text
 identifiers:
